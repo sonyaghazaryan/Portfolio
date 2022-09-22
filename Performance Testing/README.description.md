@@ -21,7 +21,7 @@
 
 * Add Thread Group and enter Thread Properties 
 * Add JMeter elements and fill in required fields (HTTP Request Defaults, HTTP Request, User defined varibale, etc.)
-* Adding Run Tree and Summary Report from Listener
+* Adding View Result Tree and Summary Report from Listener
 * Run Test and get the test result
 
 ## Resources
