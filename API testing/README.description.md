@@ -44,6 +44,6 @@ In Courses (Fundamental and Advanced) section the admin user can add courses, as
 * Get User Role - *This request allows to get user's role*
 * Update User Role - *User with Admin permission can update user's role*
 
-## Resources (Documentation and other links)
+## Resources (Documentation and other links) 
 * Documentation is available via Swagger private link
 * https://www.postman.com
