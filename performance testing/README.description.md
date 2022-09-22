@@ -12,7 +12,7 @@
 * Step 1: Install Java
 * Step 2: Enter command java -version for checking installation
 * Step 3: Download [Jmeter](https://jmeter.apache.org/download_jmeter.cgi) with Binaries file (either zip or tgz)
-* Step 4: Installation and unziping the zip/tar file
+* Step 4: Install and unzip the zip/tar file
 * Step 5: Open the file and choose bin folder
 * Step 6: Run as Administrator Jmeter (Windows Batch File)
 * Step 7: Create and run requests from [JSONPlaceholder](https://jsonplaceholder.typicode.com/guide/)
