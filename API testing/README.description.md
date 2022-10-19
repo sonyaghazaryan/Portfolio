@@ -5,13 +5,6 @@
 
 In Courses (Fundamental and Advanced) section the admin user can add courses, as well as delete or edit them. Non-admin user can only buy courses.
 
-## Installation
-
-* Step 1: Visit the [Postman](https://www.postman.com) website using any web browser
-* Step 2: Click on Windows Button to download
-* Step 3: Now click on Windows 32/64 – bit button
-* Step 4: Now check for the executable file in downloads in your system and run it
-* Step 5: Create API requests with API Documentation
 
 ## Usage
 
