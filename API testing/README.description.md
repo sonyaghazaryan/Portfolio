@@ -5,7 +5,6 @@
 
 In Courses (Fundamental and Advanced) section the admin user can add courses, as well as delete or edit them. Non-admin user can only buy courses.
 
-
 ## Usage
 
 * Signup for Postman Account
