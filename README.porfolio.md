@@ -1,4 +1,4 @@
-This Portfolio is a compilation of the practical tasks performed during the training course “Software Testing: Big Picture” organized by AGBU “Women Coders” program, QWALLITY and Quick Start. 
+This Portfolio is a compilation of the practical tasks performed during the training course “Software Testing: Big Picture” which is part of the "WomenCoders" program foundeed by AGBU Armenia and implemented by QWALLITY and Quick Start. 
 
 The training course includes:
 * Fundamental of Testing 
@@ -18,5 +18,6 @@ The training course includes:
 * Performance Testing (Apache JMeter)
 * Mobile Testing
 * Automation Testing: Introduction
-* Python / Selenium (Automate UI test cases)
+* Python / Selenium (Automate UI test cases) - Basic
 * Pytest Framework
+* HTML / Allure Report
